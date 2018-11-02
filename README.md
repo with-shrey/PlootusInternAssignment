@@ -1,11 +1,11 @@
-###Plootus Web Development Internship Assignment
+###[Plootus](https://www.plootus.com/) Web Development Internship Assignment
 
 Dependencies -: 
 * PhP - 7.1.*
-* Laravel 5
+* [Laravel 5](https://laravel.com/docs/5.7)
 
 ####Steps to Run The Project
-1. Clone the Repository
+1. Clone the Repository (`git clone https://github.com/with-shrey/PlootusInternAssignment.git`)
 2. Copy `.env.example` to  a new file `.env `
 3. Create a new mySQL database eg. `plootus`
 3. Change Database Credentials And Database name in `.env` file  Line 12,13,14
